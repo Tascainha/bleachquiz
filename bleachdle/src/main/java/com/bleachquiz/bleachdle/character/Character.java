@@ -1,10 +1,16 @@
 package com.bleachquiz.bleachdle.character;
 
+import java.util.ArrayList;
+import java.util.List;
+
+import com.bleachquiz.bleachdle.race.Race;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import jakarta.persistence.ManyToMany;
 import jakarta.persistence.Table;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -27,18 +33,18 @@ public class Character {
     private String name;
 
     @Column(nullable = false)
-    private Integer age;
+    private String gender;
 
     @Column(nullable = false)
-    private boolean bankai;
+    private String bankai;
+
+    @ManyToMany
+    private List<Race> races = new ArrayList<>();
 
     @Column(nullable = false)
-    private String race;
+    private String height;
 
     @Column(nullable = false)
     private String first_appearance;
-
-    @Column(nullable = false)
-    private String heigh;
 
 }
