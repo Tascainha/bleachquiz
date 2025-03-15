@@ -33,6 +33,6 @@ public class CharacterService {
 				}
 			}
 		
-		return targetName.toString().trim();
+		return description.replace(targetName, "");
 	}
 }
