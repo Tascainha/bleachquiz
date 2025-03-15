@@ -46,5 +46,7 @@ public class Character {
 
     @Column(nullable = false)
     private String first_appearance;
+    
+//    teste
 
 }
