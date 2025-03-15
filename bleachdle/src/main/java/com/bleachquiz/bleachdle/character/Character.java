@@ -2,9 +2,7 @@ package com.bleachquiz.bleachdle.character;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import com.bleachquiz.bleachdle.race.Race;
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -37,6 +35,7 @@ public class Character {
 
     @Column(nullable = false)
     private String bankai;
+    // #zanpakuto
 
     @ManyToMany
     private List<Race> races = new ArrayList<>();
