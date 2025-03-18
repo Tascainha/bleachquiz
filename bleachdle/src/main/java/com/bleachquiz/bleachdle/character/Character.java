@@ -2,7 +2,8 @@ package com.bleachquiz.bleachdle.character;
 
 import java.util.ArrayList;
 import java.util.List;
-import com.bleachquiz.bleachdle.status.Zanpakuto;
+
+import com.bleachquiz.bleachdle.zanpakuto.Zanpakuto;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

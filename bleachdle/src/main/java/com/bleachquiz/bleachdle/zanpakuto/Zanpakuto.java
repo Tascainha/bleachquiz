@@ -1,4 +1,4 @@
-package com.bleachquiz.bleachdle.status;
+package com.bleachquiz.bleachdle.zanpakuto;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
