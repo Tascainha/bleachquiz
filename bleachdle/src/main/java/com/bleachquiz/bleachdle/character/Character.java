@@ -40,7 +40,6 @@ public class Character {
     @Column(nullable = false)
     private String height;
 
-    @Column(nullable = false)
     @OneToOne
     private Zanpakuto zanpakuto;
 
