@@ -2,13 +2,12 @@ package com.bleachquiz.bleachdle.character;
 
 import java.util.ArrayList;
 import java.util.List;
-import com.bleachquiz.bleachdle.race.Race;
+import com.bleachquiz.bleachdle.status.Zanpakuto;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import jakarta.persistence.ManyToMany;
+import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -24,28 +23,31 @@ import lombok.Setter;
 public class Character {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+    private String id;
 
     @Column(nullable = false)
     private String name;
 
     @Column(nullable = false)
-    private String gender;
+    private List<String> description = new ArrayList<>();
 
     @Column(nullable = false)
-    private String bankai;
-    // #zanpakuto
+    private String race;
 
-    @ManyToMany
-    private List<Race> races = new ArrayList<>();
+    @Column(nullable = false)
+    private String gender;
 
     @Column(nullable = false)
     private String height;
 
     @Column(nullable = false)
-    private String first_appearance;
-    
-//    teste
+    @OneToOne
+    private Zanpakuto zanpakuto;
+
+    @Column(nullable = false)
+    private String firstAppearance;
+
+    @Column(nullable = false)
+    private List<String> media = new ArrayList<>();
 
 }

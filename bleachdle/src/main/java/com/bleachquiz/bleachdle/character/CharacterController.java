@@ -13,8 +13,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.bleachquiz.bleachdle.race.Race;
-
 @RestController
 @RequestMapping("/api/character")
 public class CharacterController {
@@ -28,20 +26,10 @@ public class CharacterController {
 
         if (character.isPresent()) {
             Character charWithRaces = character.get();
-            List<Race> races = charWithRaces.getRaces();
-
-            charWithRaces.setRaces(races);
-
             return ResponseEntity.ok(charWithRaces);
         } else {
             return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
         }
-    }
-
-    @GetMapping
-    public ResponseEntity<List<Character>> getAllCharacters() {
-        List<Character> chars = characterRepository.findAll();
-        return ResponseEntity.ok(chars);
     }
 
     @PostMapping
