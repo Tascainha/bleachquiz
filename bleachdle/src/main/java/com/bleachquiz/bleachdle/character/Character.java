@@ -37,6 +37,9 @@ public class Character {
     private String bankai;
     // #zanpakuto
 
+    @Column(nullable = false) // description para o mini game de description
+    private String description;
+    
     @ManyToMany
     private List<Race> races = new ArrayList<>();
 

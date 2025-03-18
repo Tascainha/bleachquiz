@@ -1,4 +1,4 @@
-package com.bleachquiz.bleachdle.character;
+package com.bleachquiz.bleachdle.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -13,7 +13,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.bleachquiz.bleachdle.character.Character;
 import com.bleachquiz.bleachdle.race.Race;
+import com.bleachquiz.bleachdle.repository.CharacterRepository;
 
 @RestController
 @RequestMapping("/api/character")
