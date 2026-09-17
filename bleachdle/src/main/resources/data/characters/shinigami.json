@@ -1,0 +1,1643 @@
+[
+    {
+        "id": "ichika_abarai",
+        "name": "Ichika Abarai",
+        "description": "Is a Shinigami apprentice in the Gotei 13. She is the daughter of Rukia Kuchiki and Renji Abarai.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/d/da/686Ichika_profile.png/revision/latest?cb=20190523143432&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "manga",
+            "value": 686
+        },
+        "division": null,
+        "status": "Alive",
+        "height": null
+    },
+    {
+        "id": "renji_abarai",
+        "name": "Renji Abarai",
+        "description": "Is the lieutenant of the 6th Division under Captain Byakuya Kuchiki and is married to Rukia Kuchiki. He formerly served as the 6th Seat of the 11th Division under Kenpachi Zaraki.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/8/81/Ep320RenjiProfile.png/revision/latest?cb=20231105054609&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Zabimaru"
+            },
+            {
+                "type": "bankai",
+                "name": "Sōō Zabimaru"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 15
+        },
+        "division": 6,
+        "status": "Alive",
+        "height": 188
+    },
+    {
+        "id": "sosuke_aizen",
+        "name": "Sōsuke Aizen",
+        "description": "Is the former captain of the 5th Division in the Gotei 13. He later leaves Soul Society with his followers, Gin Ichimaru and Kaname Tōsen.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/c/c4/Ep46CaptainAizen.png/revision/latest?cb=20200415062732&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Kyōka Suigetsu"
+            },
+            {
+                "type": "bankai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 23
+        },
+        "division": 5,
+        "status": "Alive",
+        "height": 186
+    },
+    {
+        "id": "akon",
+        "name": "Akon",
+        "description": "Is the lieutenant and former 3rd Seat of the 12th Division, and Vice-President of the Shinigami Research and Development Institute.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/8/82/Ep295AkonProfile.png/revision/latest?cb=20231106083113&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 43
+        },
+        "division": 12,
+        "status": "Alive",
+        "height": 176
+    },
+    {
+        "id": "yumichika_ayasegawa",
+        "name": "Yumichika Ayasegawa",
+        "description": "Is the 3rd Seat officer and former 5th Seat officer in the 11th Division of the Gotei 13, under Captain Kenpachi Zaraki.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/1/10/Ep330YumichikaProfile.png/revision/latest?cb=20231105055029&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Ruri'iro Kujaku"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 26
+        },
+        "division": 11,
+        "status": "Alive",
+        "height": 169
+    },
+    {
+        "id": "kirio_hikifune",
+        "name": "Kirio Hikifune",
+        "description": "Is a former captain of the 12th Division and a member of the Royal Guard, holding the title Ruler of Grain. She holds the position of Second Officer of the Zero Division.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/0/06/Ep374HikifuneProfile.png/revision/latest?cb=20221128211142&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Not Revealed"
+            },
+            {
+                "type": "bankai",
+                "name": "Not Revealed"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 374
+        },
+        "division": 12,
+        "status": "Deceased",
+        "height": 174
+    },
+    {
+        "id": "momo_hinamori",
+        "name": "Momo Hinamori",
+        "description": "Is the lieutenant of the 5th Division, formerly under Captain Sōsuke Aizen and currently under Captain Shinji Hirako.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/d/d8/Ep265MomoHinamori.png/revision/latest?cb=20231105055400&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Tobiume"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 24
+        },
+        "division": 5,
+        "status": "Alive",
+        "height": 151
+    },
+    {
+        "id": "shuhei_hisagi",
+        "name": "Shūhei Hisagi",
+        "description": "Is the co-lieutenant of the 9th Division, formerly under Captain Kaname Tōsen and currently under Captain Kensei Muguruma.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/5/54/520.5Hisagi_profile.png/revision/latest?cb=20190507234054&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Kazeshini"
+            },
+            {
+                "type": "bankai",
+                "name": "Fushi no Kōjō"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 21
+        },
+        "division": 9,
+        "status": "Alive",
+        "height": 181
+    },
+    {
+        "id": "toshiro_hitsugaya",
+        "name": "Tōshirō Hitsugaya",
+        "description": "Is the captain of the 10th Division in the Gotei 13. His lieutenant is Rangiku Matsumoto. He formerly served as the 3rd Seat of the 10th Division under Isshin Shiba.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/d/da/Ep257HitsugayaProfile.png/revision/latest?cb=20230824024038&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Hyōrinmaru"
+            },
+            {
+                "type": "bankai",
+                "name": "Daiguren Hyōrinmaru"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 24
+        },
+        "division": 10,
+        "status": "Alive",
+        "height": 134
+    },
+    {
+        "id": "hiyosu",
+        "name": "Hiyosu",
+        "description": "Is a department head in the Shinigami Research and Development Institute, which is tied to the 12th Division.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/4/41/Ep113HiyosuProfile.png/revision/latest?cb=20230530041130&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 43
+        },
+        "division": 12,
+        "status": "Alive",
+        "height": 172
+    },
+    {
+        "id": "ichibe_hyosube",
+        "name": "Ichibē Hyōsube",
+        "description": "Is the commanding officer of the Royal Guard, holding the title - Monk Who Calls the Real Name.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/f/f4/Ep392Ichib%C4%93ShikaiIchimonji.png/revision/latest?cb=20231012060219&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Ichimonji"
+            },
+            {
+                "type": "shin'uchi",
+                "name": "Shirafude Ichimonji"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 374
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 181
+    },
+    {
+        "id": "tetsuzaemon_iba",
+        "name": "Tetsuzaemon Iba",
+        "description": "Is the captain of the 7th Division of the Gotei 13. His lieutenant is Atau Rindō. He was formerly the 7th Division's lieutenant under Captain Sajin Komamura.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/9/9f/Ep388IbaProfile.png/revision/latest?cb=20231105184658&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            },
+            {
+                "type": "bankai",
+                "name": "Not Revealed"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 24
+        },
+        "division": 7,
+        "status": "Alive",
+        "height": 182
+    },
+    {
+        "id": "gin_ichimaru",
+        "name": "Gin Ichimaru",
+        "description": "Was the captain of the 3rd Division of the Gotei 13 until he betrayed Soul Society, alongside Sōsuke Aizen and Kaname Tōsen.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/9/9a/Ep127GinProfile.png/revision/latest?cb=20231105060935&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Shinsō"
+            },
+            {
+                "type": "bankai",
+                "name": "Kamishini no Yari"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 20
+        },
+        "division": 3,
+        "status": "Deceased",
+        "height": 185
+    },
+    {
+        "id": "yasochika_iemura",
+        "name": "Yasochika Iemura",
+        "description": "Is the co-3rd Seat officer of the 4th Division along with Hanatarō Yamada, and the leader of the first relief team formerly serving under Captain Retsu Unohana and currently under Captain Isane Kotetsu.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/1/1f/Ep98IemuraProfile.png/revision/latest?cb=20210202034936&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 29
+        },
+        "division": 4,
+        "status": "Alive",
+        "height": 179
+    },
+    {
+        "id": "nanao_ise",
+        "name": "Nanao Ise",
+        "description": "Is the co-lieutenant of the First Division of the Gotei 13, under her uncle, Captain Shunsui Kyōraku, and Vice-President of the Shinigami Women's Association.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/8/86/Ep264NanaoProfile.png/revision/latest?cb=20231105060323&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 35
+        },
+        "division": 8,
+        "status": "Alive",
+        "height": 164
+    },
+    {
+        "id": "hidetomo_kajōmaru",
+        "name": "Hidetomo Kajōmaru",
+        "description": "Was the 6th Seat of the 13th Division in the Gotei 13, under Captain Jūshirō Ukitake.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/6/6a/Ep369KajomaruProfile.png/revision/latest?cb=20221024200614&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 369
+        },
+        "division": 13,
+        "status": "Deceased",
+        "height": 178
+    },
+    {
+        "id": "izuru_kira",
+        "name": "Izuru Kira",
+        "description": "Is the lieutenant of the 3rd Division in the Gotei 13, formerly under Captain Gin Ichimaru and currently under Captain Rōjūrō Ōtoribashi.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/c/ca/Kiraizuru.png/revision/latest?cb=20231105060800&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Wabisuke"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 21
+        },
+        "division": 3,
+        "status": "Alive",
+        "height": 173
+    },
+    {
+        "id": "tenjiro_kirinji",
+        "name": "Tenjirō Kirinji",
+        "description": "Is a member of the Royal Guard, holding the title Hot Spring Demon. He holds the position of First Officer of the Zero Division, as well as Divine General of the East.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/5/5e/Ep374KirinjiProfile3.png/revision/latest?cb=20221128211402&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Kinpika"
+            },
+            {
+                "type": "bankai",
+                "name": "Not Yet Revealed"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 374
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 193
+    },
+    {
+        "id": "sajin_komamura",
+        "name": "Sajin Komamura",
+        "description": "Is the former captain of the 7th Division. His lieutenant was Tetsuzaemon Iba. He is an anthropomorphic wolf, although he is often mistaken for a dog.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/f/f4/Ep215SajinKomamura.png/revision/latest?cb=20231105061227&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Tenken"
+            },
+            {
+                "type": "bankai",
+                "name": "Kokujō Tengen Myō'ō"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 24
+        },
+        "division": 7,
+        "status": "Alive",
+        "height": 288
+    },
+    {
+        "id": "isane_kotetsu",
+        "name": "Isane Kotetsu",
+        "description": "Is the Captain of the 4th Division and former lieutenant under Captain Retsu Unohana. Her lieutenant is her younger sister, Kiyone Kotetsu, the former 13th Division's 3rd Seat.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/1/1b/571Isane_profile.png/revision/latest?cb=20200322074711&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Itegumo"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 45
+        },
+        "division": 4,
+        "status": "Alive",
+        "height": 187
+    },
+    {
+        "id": "kiyone_kotetsu",
+        "name": "Kiyone Kotetsu",
+        "description": "Is the lieutenant of the Fourth Division under her sister Isane Kotetsu. She is also the former co-3rd Seat officer of the Thirteenth Division in the Gotei 13 under Captain Jūshirō Ukitake.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/3/35/685Kiyone_profile.png/revision/latest?cb=20200322074233&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 40
+        },
+        "division": 13,
+        "status": "Alive",
+        "height": 154
+    },
+    {
+        "id": "byakuya_kuchiki",
+        "name": "Byakuya Kuchiki",
+        "description": "Is the 28th head of the Kuchiki Clan, one of the four great noble clans in Soul Society. He is also the captain of the 6th Division in the Gotei 13.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/3/39/Ep370ByakuyaProfile.png/revision/latest?cb=20231025053725&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Senbonzakura"
+            },
+            {
+                "type": "bankai",
+                "name": "Senbonzakura Kageyoshi"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 15
+        },
+        "division": 6,
+        "status": "Alive",
+        "height": 180
+    },
+    {
+        "id": "ginrei_kuchiki",
+        "name": "Ginrei Kuchiki",
+        "description": "Is Byakuya Kuchiki's grandfather. Over 100 years ago, he was the captain of the 6th Division and the 27th Head of the Kuchiki Clan until being succeeded by Byakuya in both positions.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/c/c7/Ginreikuchiki.png/revision/latest?cb=20231105191728&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            },
+            {
+                "type": "bankai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 206
+        },
+        "division": 6,
+        "status": "Alive",
+        "height": 179
+    },
+    {
+        "id": "rukia_kuchiki",
+        "name": "Rukia Kuchiki",
+        "description": "Is the current captain of the 13th Division. She formerly served as lieutenant of the 13th Division under Captain Jūshirō Ukitake.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/8/83/Ep364RukiaProfile2.png/revision/latest?cb=20231105192052&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Sode no Shirayuki"
+            },
+            {
+                "type": "bankai",
+                "name": "Hakka no Togame"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 1
+        },
+        "division": 13,
+        "status": "Alive",
+        "height": 144
+    },
+    {
+        "id": "isshin_kurosaki",
+        "name": "Isshin Kurosaki",
+        "description": "Is the former captain of the 10th Division, husband of Masaki Kurosaki, and father of Ichigo Kurosaki, Karin Kurosaki, and Yuzu Kurosaki.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/6/67/Ep141IsshinProfile.png/revision/latest?cb=20231102010132&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Engetsu"
+            },
+            {
+                "type": "bankai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 1
+        },
+        "division": 10,
+        "status": "Alive",
+        "height": 186
+    },
+    {
+        "id": "mayuri_kurotsuchi",
+        "name": "Mayuri Kurotsuchi",
+        "description": "Is the captain of the 12th Division in the Gotei 13 and 2nd president of the Shinigami Research Institute. His previous lieutenant was Nemu Kurotsuchi, his artificially-created daughter, and his current lieutenant is Akon.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/c/cb/Ep286MayuriProfile.png/revision/latest?cb=20220824014154&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Ashisogi Jizō"
+            },
+            {
+                "type": "bankai",
+                "name": "Konjiki Ashisogi Jizō"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 24
+        },
+        "division": 12,
+        "status": "Alive",
+        "height": 174
+    },
+    {
+        "id": "nemu_kurotsuchi",
+        "name": "Nemu Kurotsuchi",
+        "description": "Was the former lieutenant of the 12th Division of the Gotei 13, serving under Captain Mayuri Kurotsuchi.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/4/47/Ep200NemuOpt8.png/revision/latest?cb=20231105192406&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 28
+        },
+        "division": 12,
+        "status": "Deceased",
+        "height": 167
+    },
+    {
+        "id": "yachiru_kusajishi",
+        "name": "Yachiru Kusajishi",
+        "description": "Is the former lieutenant of the 11th Division in the Gotei 13, under Captain Kenpachi Zaraki, as well as the former President of the Shinigami Women's Association.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/9/9d/Ep201Yachiru.png/revision/latest?cb=20231105192844&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Sanpo Kenjū"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 25
+        },
+        "division": 11,
+        "status": "Alive",
+        "height": 109
+    },
+    {
+        "id": "shunsui_kyoraku",
+        "name": "Shunsui Kyōraku",
+        "description": "Is the captain of the 1st Division and Captain-Commander of the Gotei 13. His lieutenants are his niece, Nanao Ise, and Genshirō Okikiba.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/e7/Ep221ShunsuiKy%C5%8Draku.png/revision/latest?cb=20231105193608&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Katen Kyōkotsu"
+            },
+            {
+                "type": "bankai",
+                "name": "Katen Kyōkotsu: Karamatsu Shinjū"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 24
+        },
+        "division": 8,
+        "status": "Alive",
+        "height": 192
+    },
+    {
+        "id": "ikkaku_madarame",
+        "name": "Ikkaku Madarame",
+        "description": "Is the lieutenant and former 3rd Seat officer in the 11th Division of the Gotei 13, under Captain Kenpachi Zaraki.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/ed/237Ikkaku_profile.png/revision/latest?cb=20220906215055&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Hōzukimaru"
+            },
+            {
+                "type": "bankai",
+                "name": "Ryūmon Hōzukimaru"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 26
+        },
+        "division": 11,
+        "status": "Alive",
+        "height": 182
+    },
+    {
+        "id": "shino_madarame",
+        "name": "Shino Madarame",
+        "description": "Is one of the Shinigami that replaces Zennosuke Kurumadani as the guardian of the Karakura Town area.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/2/26/Ep369ShinoProfile.png/revision/latest?cb=20221024200732&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 367
+        },
+        "division": 13,
+        "status": "Alive",
+        "height": 159
+    },
+    {
+        "id": "rangiku_matsumoto",
+        "name": "Rangiku Matsumoto",
+        "description": "Is the lieutenant of the 10th Division of the Gotei 13, serving under Captain Tōshirō Hitsugaya.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/9/90/Matsumoto_Rangiku_Mugshot_2.png/revision/latest?cb=20231105194031&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Haineko"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 24
+        },
+        "division": 10,
+        "status": "Alive",
+        "height": 172
+    },
+    {
+        "id": "oetsu_nimaiya",
+        "name": "Ōetsu Nimaiya",
+        "description": "Is a member of the Royal Guard, holding the title God of the Sword. He holds the position of Third Officer of the Zero Division, as well as Divine General of the West.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/3/3f/Ep376NimaiyaProfile.png/revision/latest?cb=20221218062450&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Not Revealed"
+            },
+            {
+                "type": "bankai",
+                "name": "Not Revealed"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 374
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 172
+    },
+    {
+        "id": "marechiyo_ōmaeda",
+        "name": "Marechiyo Ōmaeda",
+        "description": "Is the lieutenant of the Second Division, under Captain Suì-Fēng. He is also the Corps Commander of the Patrol Corps in the Onmitsukidō.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/1/1a/Ep215MarechiyoProfile.png/revision/latest?cb=20220501215658&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Gegetsuburi"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 30
+        },
+        "division": 2,
+        "status": "Alive",
+        "height": 210
+    },
+    {
+        "id": "chojiro_sasakibe",
+        "name": "Chōjirō Sasakibe",
+        "description": "Was the lieutenant of the 1st Division under the command of Genryūsai Shigekuni Yamamoto. He had kept this post since the inception of the Gotei 13.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/e5/Ep215ChojiroProfile.png/revision/latest?cb=20221130090025&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Gonryōmaru"
+            },
+            {
+                "type": "bankai",
+                "name": "Kōkō Gonryō Rikyū"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 30
+        },
+        "division": 1,
+        "status": "Deceased",
+        "height": 179
+    },
+    {
+        "id": "kaien_shiba",
+        "name": "Kaien Shiba",
+        "description": "Is the former lieutenant of the 13th Division, under Jūshirō Ukitake, up until his death at the hands of a Hollow that also killed his wife, Miyako Shiba.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/ee/Ep208KaienProfile.png/revision/latest?cb=20231105202259&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Nejibana"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 25
+        },
+        "division": 13,
+        "status": "Deceased",
+        "height": 183
+    },
+    {
+        "id": "miyako_shiba",
+        "name": "Miyako Shiba",
+        "description": "Was the former 3rd Seat of the 13th Division and served under Captain Jūshirō Ukitake. She is the wife of Kaien Shiba.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/2/2f/Ep49MiyakoShiba.png/revision/latest?cb=20210411043755&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 49
+        },
+        "division": 13,
+        "status": "Deceased",
+        "height": null
+    },
+    {
+        "id": "yoruichi_shihoin",
+        "name": "Yoruichi Shihōin",
+        "description": "Is the former captain of the 2nd Division of the Gotei 13, as well as the former commander of the Onmitsukidō. Her Lieutenant was Marenoshin Ōmaeda.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/6/62/Ep246YoruichiShih%C5%8Din.png/revision/latest?cb=20231105202606&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 15
+        },
+        "division": 2,
+        "status": "Alive",
+        "height": 156
+    },
+    {
+        "id": "senjumaru_shutara",
+        "name": "Senjumaru Shutara",
+        "description": "Is a member of the Royal Guard, holding the title Great Weave Guard. She holds the position of Fourth Officer of the Zero Division, as well as Divine General of the North.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/3/3f/Ep374SenjumaruProfile.png/revision/latest?cb=20221128211115&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Shigarami"
+            },
+            {
+                "type": "bankai",
+                "name": "Shatatsu Karagara Shigarami no Tsuji"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 374
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 158
+    },
+    {
+        "id": "sui_feng",
+        "name": "Suì-Fēng",
+        "description": "Is the commander-in-chief of the Onmitsukidō and the captain of the 2nd Division in the Gotei 13. Her lieutenant is Marechiyo Ōmaeda.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/7/7a/Ep223Sui-FengProfile.png/revision/latest?cb=20231105203130&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Suzumebachi"
+            },
+            {
+                "type": "bankai",
+                "name": "Jakuhō Raikōben"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 24
+        },
+        "division": 2,
+        "status": "Alive",
+        "height": 150
+    },
+    {
+        "id": "rin_tsubokura",
+        "name": "Rin Tsubokura",
+        "description": "Is a Shinigami and a researcher of the Shinigami Research and Development Institute. He has shoulder length brown hair, part of which is arranged into a small topknot at the front of his head, which is secured by a red tie.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/5/5a/Ep134RinProfile.png/revision/latest?cb=20231009052846&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 68
+        },
+        "division": 12,
+        "status": "Alive",
+        "height": null
+    },
+    {
+        "id": "tessai_tsukabishi",
+        "name": "Tessai Tsukabishi",
+        "description": "Is an employee of Urahara Shop and a childhood friend of Kisuke Urahara and Yoruichi Shihōin. One hundred years ago, he was the Captain of the Kidō Corps in Soul Society. He was forced into exile by Sōsuke Aizen and is currently hiding in the Human World with Urahara in an untraceable Gigai while helping out in his shop.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/3/36/Ep210KidoCorpsCaptainTessai.png/revision/latest?cb=20231105204041&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            },
+            {
+                "type": "bankai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 6
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 200
+    },
+    {
+        "id": "jushiro_ukitake",
+        "name": "Jūshirō Ukitake",
+        "description": "Was the captain of the 13th Division in the Gotei 13. At one point in time, his lieutenant was Kaien Shiba, and later was Rukia Kuchiki. For most of his life, he hosted Mimihagi, the Right Arm of the Soul King, in his body.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/2/24/Ep227UkitakeProfile.png/revision/latest?cb=20231105204300&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Sōgyo no Kotowari"
+            },
+            {
+                "type": "bankai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 9
+        },
+        "division": 13,
+        "status": "Deceased",
+        "height": 187
+    },
+    {
+        "id": "retsu_unohana",
+        "name": "Retsu Unohana",
+        "description": "Was the former captain of the Fourth Division in the Gotei 13. She was one of the oldest and most experienced captains, and was Soul Society's best healer.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/ea/Ep206UnohanaProfile.png/revision/latest?cb=20231105204710&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Minazuki"
+            },
+            {
+                "type": "bankai",
+                "name": "Minazuki"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 24
+        },
+        "division": 4,
+        "status": "Deceased",
+        "height": 159
+    },
+    {
+        "id": "kisuke_urahara",
+        "name": "Kisuke Urahara",
+        "description": "Is the former captain of the 12th Division, as well as the founder and 1st President of the S.R.D.I.. His lieutenant was Hiyori Sarugaki. He lives in the Human World where he owns a small convenience store which sells Shinigami items.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/1/16/Ep329UraharaProfileOption4.png/revision/latest?cb=20220325000742&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Benihime"
+            },
+            {
+                "type": "bankai",
+                "name": "Kannonbiraki Benihime Aratame"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 6
+        },
+        "division": 12,
+        "status": "Alive",
+        "height": 183
+    },
+    {
+        "id": "hanataro_yamada",
+        "name": "Hanatarō Yamada",
+        "description": "Is the co-3rd Seat and former 7th Seat of the 4th Division in the Gotei 13, serving as the leader of the 14th Advanced Relief Team.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/f/f1/Ep29Hanatar%C5%8DYamada.png/revision/latest?cb=20210402011948&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Hisagomaru"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 27
+        },
+        "division": 4,
+        "status": "Alive",
+        "height": 153
+    },
+    {
+        "id": "genryusai_shigekuni_yamamoto",
+        "name": "Genryūsai Shigekuni Yamamoto",
+        "description": "Was the captain of the 1st Division in the Gotei 13 and also the Captain-Commander of the whole Gotei 13. His lieutenant was Chōjirō Sasakibe.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/6/6c/206Yamamoto_profile.png/revision/latest?cb=20231105205116&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Ryūjin Jakka"
+            },
+            {
+                "type": "bankai",
+                "name": "Zanka no Tachi"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 24
+        },
+        "division": 1,
+        "status": "Deceased",
+        "height": 168
+    },
+    {
+        "id": "ryunosuke_yuki",
+        "name": "Ryūnosuke Yuki",
+        "description": "Is one of the Shinigami that replaces Zennosuke Kurumadani as the guardian of the Karakura Town area.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/1/19/Ep369YukiProfile.png/revision/latest?cb=20221024200943&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 367
+        },
+        "division": 13,
+        "status": "Alive",
+        "height": 156
+    },
+    {
+        "id": "kenpachi_zaraki",
+        "name": "Kenpachi Zaraki",
+        "description": "Is the current captain of the 11th Division in the Gotei 13. He is the eleventh Kenpachi to hold the position. His first lieutenant was Yachiru Kusajishi and his current lieutenant is Ikkaku Madarame.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/8/8d/572Kenpachi_profile.png/revision/latest?cb=20210417222326&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Nozarashi"
+            },
+            {
+                "type": "bankai",
+                "name": "Unnamed"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 20
+        },
+        "division": 11,
+        "status": "Alive",
+        "height": 202
+    },
+    {
+        "id": "love_aikawa",
+        "name": "Love Aikawa",
+        "description": "Is a Visored and the former captain of the 7th Division. His lieutenant was Jinemon Kotsubaki.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/a/a3/606Love_profile.png/revision/latest?cb=20190501025848&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Tengumaru"
+            },
+            {
+                "type": "bankai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 122
+        },
+        "division": 7,
+        "status": "Alive",
+        "height": 189
+    },
+    {
+        "id": "shinji_hirako",
+        "name": "Shinji Hirako",
+        "description": "Is the captain of the 5th Division in the Gotei 13. His lieutenant is Momo Hinamori. He also served as a recruiter and the de facto leader of the Visored.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/b/b9/Ep125ShinjiHirako.png/revision/latest?cb=20231105205939&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Sakanade"
+            },
+            {
+                "type": "bankai",
+                "name": "Sakashima Yokoshima Happōfusagari"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 109
+        },
+        "division": 5,
+        "status": "Alive",
+        "height": 176
+    },
+    {
+        "id": "mashiro_kuna",
+        "name": "Mashiro Kuna",
+        "description": "Is the co-lieutenant of the 9th Division, currently under Kensei Muguruma and is currently a member of the Visored.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/0/04/Ep278MashiroKuna.png/revision/latest?cb=20231105210410&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 122
+        },
+        "division": 9,
+        "status": "Alive",
+        "height": 153
+    },
+    {
+        "id": "kensei_muguruma",
+        "name": "Kensei Muguruma",
+        "description": "Is the captain of the 9th Division in the Gotei 13. His lieutenants are Shūhei Hisagi and Mashiro Kuna. He is a Visored. He was also a captain over 100 years ago prior to his exile, and was reinstated to his old post some time after the battle against Sōsuke Aizen.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/2/24/Ep366KenseiProfile.png/revision/latest?cb=20231105210706&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Tachikaze"
+            },
+            {
+                "type": "bankai",
+                "name": "Tekken Tachikaze"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 122
+        },
+        "division": 9,
+        "status": "Alive",
+        "height": 179
+    },
+    {
+        "id": "rojuro_otoribashi",
+        "name": "Rōjūrō Ōtoribashi",
+        "description": "Is the captain of the 3rd Division in the Gotei 13 and a Visored. His lieutenant is Izuru Kira. He was also a Captain over 100 years ago prior to his exile, and was reinstated to his old post some time after the battle against Sōsuke Aizen.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/0/05/Ep384R%C5%8Dj%C5%ABr%C5%8DProfile.png/revision/latest?cb=20231105211114&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Kinshara"
+            },
+            {
+                "type": "bankai",
+                "name": "Kinshara Butōdan"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 122
+        },
+        "division": 3,
+        "status": "Alive",
+        "height": 187
+    },
+    {
+        "id": "hiyori_sarugaki",
+        "name": "Hiyori Sarugaki",
+        "description": "Is the former lieutenant of the 12th Division under Captains Kirio Hikifune and Kisuke Urahara, and currently a Visored.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/7/7a/Ep285HiyoriProfile.png/revision/latest?cb=20220826004017&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Kubikiri Orochi"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 112
+        },
+        "division": 12,
+        "status": "Alive",
+        "height": 133
+    },
+    {
+        "id": "hachigen_ushoda",
+        "name": "Hachigen Ushōda",
+        "description": "Is a Visored, formerly the lieutenant of the Kidō Corps under Tessai Tsukabishi. He is usually referred to as Hacchi.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/d/d3/Ep279HachigenProfile.png/revision/latest?cb=20230831220937&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 122
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 257
+    },
+    {
+        "id": "lisa_yadomaru",
+        "name": "Lisa Yadōmaru",
+        "description": "Is a Visored and the current captain of the 8th Division. Her Lieutenant is Yuyu Yayahara. She is the former lieutenant of the 8th Division under Captain Shunsui Kyōraku.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/9/9b/Ep123LisaProfile.png/revision/latest?cb=20231105211359&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Haguro Tonbo"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 122
+        },
+        "division": 8,
+        "status": "Alive",
+        "height": 162
+    },
+    {
+        "id": "shusuke_amagai",
+        "name": "Shūsuke Amagai",
+        "description": "Was a captain of the 3rd Division, succeeding Gin Ichimaru.[1] He is responsible for orchestrating the events of the Kasumiōji Conspiracy.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/4/4c/Ep168Sh%C5%ABsukeAmagai.png/revision/latest?cb=20160507180218&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Raika"
+            },
+            {
+                "type": "bankai",
+                "name": "Raika Gōen Kaku"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 168
+        },
+        "division": 3,
+        "status": "Deceased",
+        "height": null
+    },
+    {
+        "id": "rusaburo_enkogawa",
+        "name": "Rusaburō Enkōgawa",
+        "description": "Is one of Rurichiyo Kasumiōji's bodyguards during the Kasumiōji Conspiracy.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/4/4f/Ep175Rusabur%C5%8DEnk%C5%8Dgawa.png/revision/latest?cb=20231105211826&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Daichimaru"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 169
+        },
+        "division": null,
+        "status": "Alive",
+        "height": null
+    },
+    {
+        "id": "ashido_kano",
+        "name": "Ashido Kanō",
+        "description": "Is a Shinigami trapped in Hueco Mundo.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/6/63/Ep148AshidoProfile.png/revision/latest?cb=20231105212137&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 147
+        },
+        "division": null,
+        "status": "Alive",
+        "height": null
+    },
+    {
+        "id": "ryusei_kenzaki",
+        "name": "Ryūsei Kenzaki",
+        "description": "Is a servant of Rurichiyo Kasumiōji, the princess of the Kasumiōji noble family during the Kasumiōji Conspiracy.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/e4/Ep180RyuseiProfile.png/revision/latest?cb=20231105212739&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Benishidare"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 169
+        },
+        "division": null,
+        "status": "Alive",
+        "height": null
+    },
+    {
+        "id": "makoto_kibune",
+        "name": "Makoto Kibune",
+        "description": "Is a former member of the Patrol Group and is the 3rd Division's Third Seat. He is also one of the key figures of the Kasumiōji Conspiracy.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/8/84/Ep168KibuneProfile.png/revision/latest?cb=20190205224721&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Reppū"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 168
+        },
+        "division": 3,
+        "status": "Deceased",
+        "height": null
+    },
+    {
+        "id": "koga_kuchiki",
+        "name": "Kōga Kuchiki",
+        "description": "Is a former 3rd Seat of the 6th Division who later revolted against the Seireitei. He was also a member of the Kuchiki Clan, having married into it.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/2/25/252Koga_alt_3.png/revision/latest?cb=20231106082013&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Muramasa"
+            },
+            {
+                "type": "bankai",
+                "name": "Mukōjōchū Muramasa"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 248
+        },
+        "division": 6,
+        "status": "Deceased",
+        "height": null
+    },
+    {
+        "id": "masayoshi",
+        "name": "Masayoshi",
+        "description": "Was a former member of the Gotei 13 who traveled around Soul Society with the Partisan Squad that hunted down drifting Hollows.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/b/b2/Episode315Masayoshi.png/revision/latest?cb=20230113022153&path-prefix=en",
+        "race": [
+            "Shinigami",
+            "Hollow"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 315
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": null
+    },
+    {
+        "id": "ran_tao",
+        "name": "Ran'Tao",
+        "description": "Is a former Shinigami researcher who oversaw the project responsible for the creation of the Bount.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/0/00/Ep97RanTaoProfile.png/revision/latest?cb=20210415193654&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 96
+        },
+        "division": null,
+        "status": "Alive",
+        "height": null
+    },
+    {
+        "id": "eikichiro_saido",
+        "name": "Eikichirō Saidō",
+        "description": "Is a Shinigami working for the Onmitsukidō who was assigned to find Rukia Kuchiki in the Human World during The Death Trilogy Overture.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/5/54/Ep215SaidoProfile.png/revision/latest?cb=20231106082347&path-prefix=en",
+        "race": [
+            "Shinigami"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 7
+        },
+        "division": null,
+        "status": "Alive",
+        "height": null
+    }
+]

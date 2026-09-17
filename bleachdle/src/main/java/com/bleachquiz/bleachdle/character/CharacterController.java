@@ -20,6 +20,14 @@ public class CharacterController {
     @Autowired
     private CharacterRepository characterRepository;
 
+    @GetMapping
+    public ResponseEntity<List<CharacterSummary>> listCharacters() {
+        List<CharacterSummary> summaries = characterRepository.findAll().stream()
+                .map(CharacterSummary::from)
+                .toList();
+        return ResponseEntity.ok(summaries);
+    }
+
     @GetMapping("/{name}")
     public ResponseEntity<Character> getCharacterByName(@PathVariable String name) {
         Optional<Character> character = characterRepository.findByName(name);

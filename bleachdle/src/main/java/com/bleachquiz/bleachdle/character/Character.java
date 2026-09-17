@@ -53,6 +53,10 @@ public class Character {
     @Embedded
     private FirstAppearance firstAppearance;
 
+    private Integer division;
 
+    private String status;
+
+    private Integer height;
 
 }

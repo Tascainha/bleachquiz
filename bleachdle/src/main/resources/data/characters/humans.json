@@ -1,0 +1,534 @@
+[
+    {
+        "id": "keigo_asano",
+        "name": "Keigo Asano",
+        "description": "Is a student at the Karakura High School, in the same class as Ichigo Kurosaki.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/2/23/Ep343KeigoProfile2.png/revision/latest?cb=20231105042300&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Male",
+        "abilities": [],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 2
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 172
+    },
+    {
+        "id": "mizuho_asano",
+        "name": "Mizuho Asano",
+        "description": "Is the older sister of Keigo Asano. She is the 24th Student Council President at Karakura 1st High School and handles multiple school affairs, including the local Kendo Club.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/5/52/Ep229MizuhoProfile2.png/revision/latest?cb=20231105042438&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Female",
+        "abilities": [],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 121
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 162
+    },
+    {
+        "id": "tatsuki_arisawa",
+        "name": "Tatsuki Arisawa",
+        "description": "Is a student at Karakura High School, and is in the same class as Ichigo Kurosaki, her childhood friend and former karate partner.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/4/4d/Ep343TatsukiProfile2.png/revision/latest?cb=20190314162420&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Female",
+        "abilities": [],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 2
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 155
+    },
+    {
+        "id": "oscar_joaquin_de_la_rosa",
+        "name": "Oscar Joaquín de la Rosa",
+        "description": "Was Yasutora Sado's grandfather. After the death of Chad's parents, he raised him in his native Mexico until his death.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/9/98/Abuelo_%28ep249%29.png/revision/latest?cb=20131014030424&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Male",
+        "abilities": [],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 12
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": null
+    },
+    {
+        "id": "jinta_hanakari",
+        "name": "Jinta Hanakari",
+        "description": "Is one of the employees of the Urahara Shop. He is a small boy with red hair.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/8/82/Ep344JintaProfile.png/revision/latest?cb=20231105042632&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "signature skill",
+                "name": "Kanabō Specialist"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 6
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 126
+    },
+    {
+        "id": "hashigami",
+        "name": "Hashigami",
+        "description": "Is a young boy who goes to the same school as Yuzu Kurosaki and Karin Kurosaki. He has light and messy brown hair and freckles on his cheeks.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/6/6b/Ep7Hashigami.png/revision/latest?cb=20210318232744&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Male",
+        "abilities": [],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 6
+        },
+        "division": null,
+        "status": "Alive",
+        "height": null
+    },
+    {
+        "id": "chizuru_honsho",
+        "name": "Chizuru Honshō",
+        "description": "Is a student at Karakura High School, in the same class as Ichigo Kurosaki. Her name is listed as the 31st student in academic achievements.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/a/a2/Ep214ChizuruProfile.png/revision/latest?cb=20190126061258&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Female",
+        "abilities": [],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 3
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 163
+    },
+    {
+        "id": "orihime_inoue",
+        "name": "Orihime Inoue",
+        "description": "Is a Human living in Karakura Town. She is a former student of Karakura High School. She is married to Ichigo Kurosaki and has a son named Kazui Kurosaki.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/b/b2/Ep215OrihimeProfile.png/revision/latest?cb=20231105043021&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "signature skill",
+                "name": "Shun Shun Rikka"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 2
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 157
+    },
+    {
+        "id": "don_kanonji",
+        "name": "Don Kanonji",
+        "description": "Is a popular spirit Mediumship who hosts a television show called Casual Soul Realm Assault Trip, often referred to simply as Cazh Soul.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/4/41/Ep50DonKanonjiProfile.png/revision/latest?cb=20210411054438&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "signature skill",
+                "name": "Kanonball"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 10
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 185
+    },
+    {
+        "id": "mizuiro_kojima",
+        "name": "Mizuiro Kojima",
+        "description": "Is a student in Karakura High School and is in the same class as Ichigo Kurosaki. He has short black hair and green eyes, parted down the middle with a stray bang in his face and the tips fanning out.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/5/56/Ep227MizuiroProfile.png/revision/latest?cb=20231105043314&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Male",
+        "abilities": [],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 2
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 154
+    },
+    {
+        "id": "ryo_kunieda",
+        "name": "Ryō Kunieda",
+        "description": "Is a classmate of Ichigo Kurosaki at Karakura High School. Ryō has long black hair and a mole under her left eye. She wears the standard Karakura school uniform.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/3/31/Ep6RyoProfile.png/revision/latest?cb=20210313010038&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Female",
+        "abilities": [],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 3
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 166
+    },
+    {
+        "id": "ichigo_kurosaki",
+        "name": "Ichigo Kurosaki",
+        "description": "Is a Human who is also a Substitute Shinigami. He is the son of Isshin and Masaki Kurosaki, and older brother of Karin and Yuzu.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/4/41/NBFHIchigo_profile.png/revision/latest?cb=20230903192540&path-prefix=en",
+        "race": [
+            "Human",
+            "Quincy"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Zangetsu"
+            },
+            {
+                "type": "bankai",
+                "name": "Tensa Zangetsu"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 1
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 181
+    },
+    {
+        "id": "karin_kurosaki",
+        "name": "Karin Kurosaki",
+        "description": "Is the fraternal younger twin sister of Yuzu, daughter of Isshin and Masaki Kurosaki, and youngest sister of Ichigo.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/5/5f/Ep347KarinProfile.png/revision/latest?cb=20190314173711&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Female",
+        "abilities": [],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 1
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 136
+    },
+    {
+        "id": "kazui_kurosaki",
+        "name": "Kazui Kurosaki",
+        "description": "Is a human with Shinigami powers. He is the son of Ichigo Kurosaki and Orihime Inoue. He is a small boy with orange hair and large dark orange eyes.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/1/10/686Kazui_profile.png/revision/latest?cb=20190523143534&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "shikai",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "manga",
+            "value": 686
+        },
+        "division": null,
+        "status": "Alive",
+        "height": null
+    },
+    {
+        "id": "yuzu_kurosaki",
+        "name": "Yuzu Kurosaki",
+        "description": "Is the fraternal older twin of Karin and the younger sister of Ichigo Kurosaki. She's appearance is a stark contrast to her sister's.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/a/ae/Ep80YuzuProfile.png/revision/latest?cb=20210415064944&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Female",
+        "abilities": [],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 1
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 137
+    },
+    {
+        "id": "misato_ochi",
+        "name": "Misato Ochi",
+        "description": "Is a teacher at Karakura High School. Her pupils include Ichigo Kurosaki and his friends.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/a/aa/Ep64MisatoProfile.png/revision/latest?cb=20210414224049&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Female",
+        "abilities": [],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 4
+        },
+        "division": null,
+        "status": "Alive",
+        "height": null
+    },
+    {
+        "id": "jackie_tristan",
+        "name": "Jackie Tristan",
+        "description": "Is a Human who formerly possessed Fullbring powers and is a former member of the organization known as Xcution. She is a tall dark-skinned woman with straight chin-length dark hair, brown eyes and full lips.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/0/0c/Ep347JackieProfile.png/revision/latest?cb=20231105043940&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "fullbring",
+                "name": "Dirty Boots"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 343
+        },
+        "division": null,
+        "status": "Alive",
+        "height": null
+    },
+    {
+        "id": "ururu_tsumugiya",
+        "name": "Ururu Tsumugiya",
+        "description": "Is an employee of the Urahara Shop. She is a young-looking girl with a perpetual blush on her cheeks who wears a white t-shirt with the Urahara Shop logo in pink print and a knee-length, pink skirt with white dots.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/eb/Ep344UruruProfile.png/revision/latest?cb=20230125215615&path-prefix=en",
+        "race": [
+            "Human"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "signature skill",
+                "name": "Slaughter Mode Enhanced Strength"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 6
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 141
+    },
+    {
+        "id": "riruka_dokugamine",
+        "name": "Riruka Dokugamine",
+        "description": "Is a Fullbringer and formerly member No. 003 of the organization known as Xcution. She is a young, slender girl with magenta eyes and long hair of matching color.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/4/40/Ep352RirukaProfile.png/revision/latest?cb=20231105155442&path-prefix=en",
+        "race": [
+            "Human",
+            "Fullbringer"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "fullbring",
+                "name": "Dollhouse"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 343
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 156
+    },
+    {
+        "id": "kugo_ginjo",
+        "name": "Kūgo Ginjō",
+        "description": "Is a Fullbringer and was the leader and member No. 001 of the organization known as Xcution. He is also a former Substitute Shinigami.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/2/2d/Ep344GinjoProfile.png/revision/latest?cb=20231105044507&path-prefix=en",
+        "race": [
+            "Human",
+            "Fullbringer"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "fullbring",
+                "name": "Cross of Scaffold"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 343
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 187
+    },
+    {
+        "id": "giriko_kutsuzawa",
+        "name": "Giriko Kutsuzawa",
+        "description": "Is a Fullbringer and a member of Xcution. He is a tall, middle-aged man who possesses short dark hair, brown eyes and a thick mustache.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/c/c8/Ep351GirikoProfile.png/revision/latest?cb=20231105044630&path-prefix=en",
+        "race": [
+            "Human",
+            "Fullbringer"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "fullbring",
+                "name": "Time Tells No Lies"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 343
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": null
+    },
+    {
+        "id": "yasutora_sado",
+        "name": "Yasutora Sado",
+        "description": "Is a Human living in Karakura Town. He is a professional boxer who participates in televised matches. He was a classmate of Ichigo Kurosaki's during their time at Karakura High School.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/e9/Ep351SadoProfile.png/revision/latest?cb=20231105184729&path-prefix=en",
+        "race": [
+            "Human",
+            "Fullbringer"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "fullbring",
+                "name": "Brazo Derecha de Gigante Brazo Izquierda del Diablo"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 2
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 197
+    },
+    {
+        "id": "moe_shishigawara",
+        "name": "Moe Shishigawara",
+        "description": "Is a high school student from Miyashita Commercial High School. He is also a Fullbringer who once worked under Shūkurō Tsukishima.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/e7/Ep349ShishigawaraProfile3.png/revision/latest?cb=20230912201056&path-prefix=en",
+        "race": [
+            "Human",
+            "Fullbringer"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "fullbring",
+                "name": "Jackpot Knuckle"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 349
+        },
+        "division": null,
+        "status": "Alive",
+        "height": null
+    },
+    {
+        "id": "shukuro_tsukishima",
+        "name": "Shūkurō Tsukishima",
+        "description": "Is a Fullbringer and a former member of Xcution. He is an extremely tall young man with brown eyes and wavy black hair that is at shoulder length.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/2/25/Ep353TsukishimaProfile.png/revision/latest?cb=20231105042024&path-prefix=en",
+        "race": [
+            "Human",
+            "Fullbringer"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "fullbring",
+                "name": "Book of the End"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 344
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 198
+    },
+    {
+        "id": "yukio_hans_vorarlberna",
+        "name": "Yukio Hans Vorarlberna",
+        "description": "Is a Fullbringer and formerly member No. 005 of the organization known as Xcution. He is also the president of his family's company.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/ef/Ep354YukioProfile.png/revision/latest?cb=20231105045336&path-prefix=en",
+        "race": [
+            "Human",
+            "Fullbringer"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "fullbring",
+                "name": "Invaders Must Die"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 343
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 154
+    }
+]

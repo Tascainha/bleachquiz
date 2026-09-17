@@ -1,0 +1,1038 @@
+[
+    {
+        "id": "loly_aivirrne",
+        "name": "Loly Aivirrne",
+        "description": "Is the 33rd Arrancar in Sōsuke Aizen's army. She and Menoly Mallia served as Aizen's aides.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/1/14/Ep163LolyProfile2.png/revision/latest?cb=20230715183852&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Escolopendra"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 150
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 155
+    },
+    {
+        "id": "luppi_antenor",
+        "name": "Luppi Antenor",
+        "description": "Was the Sexta (6th) Espada in Sōsuke Aizen's army, having temporarily replaced Grimmjow Jaegerjaquez before his death at the latter's hands.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/0/03/Ep388LuppiProfile.png/revision/latest?cb=20230921071853&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Trepadora"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 138
+        },
+        "division": 6,
+        "status": "Alive",
+        "height": 161
+    },
+    {
+        "id": "emilou_apacci",
+        "name": "Emilou Apacci",
+        "description": "Is the 54th Arrancar in Sōsuke Aizen's army and one of Tier Harribel's three Fracción, collectively known as the Tres Bestias.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/5/51/Ep221ApacciProfile.png/revision/latest?cb=20231110185158&path-prefix=en",
+        "race": [
+            "Arrancar",
+            "Adjuchas"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Cierva"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 161
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 156
+    },
+    {
+        "id": "aaroniero_arruruerie",
+        "name": "Aaroniero Arruruerie",
+        "description": "Is an Arrancar in Sōsuke Aizen's army and the Noveno (9th) Espada. The face is usually concealed behind an elongated, white mask covered with eight holes.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/5/5c/Ep153AaronieroProfile.png/revision/latest?cb=20220531233955&path-prefix=en",
+        "race": [
+            "Arrancar",
+            "Gillian"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Glotonería"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 138
+        },
+        "division": 9,
+        "status": "Deceased",
+        "height": 205
+    },
+    {
+        "id": "dondochakka_birstanne",
+        "name": "Dondochakka Birstanne",
+        "description": "Is one of Nel Tu's brothers and protectors. Has a large, heavyset, but dumpy body with short appendages with small, white hands and feet.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/0/04/Ep194DondochakkaProfile.png/revision/latest?cb=20220409205914&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 145
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 204
+    },
+    {
+        "id": "findorr_calius",
+        "name": "Findorr Calius",
+        "description": "Is the 24th Arrancar in Sōsuke Aizen's army and one of Baraggan Louisenbairn's six Fracción. Is a slim male Arrancar.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/e3/Ep219FindorrProfile.png/revision/latest?cb=20231110190136&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Pinza Aguda"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 203
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 180
+    },
+    {
+        "id": "rudbornn_chelute",
+        "name": "Rudbornn Chelute",
+        "description": "Is the 61st Arrancar in Sōsuke Aizen's army, and the sole member and founder of the Exequias. Unlike most Arrancar, his face is hidden.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/3/39/Rudob%C5%8Dn.png/revision/latest?cb=20220612172554&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Árbol"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 153
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 172
+    },
+    {
+        "id": "charlotte_chuhlhourne",
+        "name": "Charlotte Chuhlhourne",
+        "description": "Was the 20th Arrancar in Sōsuke Aizen's army and one of Baraggan Louisenbairn's six Fracción prior to being killed by Yumichika Ayasegawa and later resurrected by Mayuri Kurotsuchi as a member of the Twelfth Division's Corpse Unit.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/e/e2/Ep217CharlotteProfile.png/revision/latest?cb=20230920202830&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Reina De Rosas"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 203
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 192
+    },
+    {
+        "id": "ulquiorra_cifer",
+        "name": "Ulquiorra Cifer",
+        "description": "Is the Cuatro (4th) Espada in Aizen's army of Arrancar.is a slender, yet fairly muscular, male Arrancar of average height with a melancholic appearance.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/b/bd/Ep267UlquiorraProfile2.png/revision/latest?cb=20231110190352&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Murciélago"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 113
+        },
+        "division": 4,
+        "status": "Deceased",
+        "height": 169
+    },
+    {
+        "id": "dordoni_alessandro_del_socaccio",
+        "name": "Dordoni Alessandro Del Socaccio",
+        "description": "Was Arrancar Cientecimo Tercero (103rd) in Sōsuke Aizen's army prior to being executed by Rudbornn Chelute and later resurrected by Mayuri Kurotsuchi as a member of the Twelfth Division's Corpse Unit.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/5/57/Ep151DordoniAlessandroDelSocaccio2.png/revision/latest?cb=20231110190728&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Giralda"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 151
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 190
+    },
+    {
+        "id": "asguiaro_ebern",
+        "name": "Asguiaro Ebern",
+        "description": "Is an Arrancar soldier in service to the Wandenreich. is a tall and slender male Arrancar. He has short red hair which is swept back, creating peaks at either side of his head.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/8/8c/481Ebern_profile.png/revision/latest?cb=20170208040759&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 367
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 181
+    },
+    {
+        "id": "luders_friegen",
+        "name": "Luders Friegen",
+        "description": "Is an Arrancar soldier in service to the Wandenreich. Attire consists of a long, white robe, over which he wears a waist-length white robe which feature a white hood with black face mask and epaulettes.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/b/b6/484Luders_profile.png/revision/latest?cb=20170318223812&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 367
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 184
+    },
+    {
+        "id": "nnoitra_gilga",
+        "name": "Nnoitra Gilga",
+        "description": "Is an Arrancar and the Quinto (5th) Espada in Sōsuke Aizen's army. Is a very tall man with a thin and lanky body.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/1/10/Ep190NnoitraProfile.png/revision/latest?cb=20221225060324&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Santa Teresa"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 138
+        },
+        "division": 5,
+        "status": "Deceased",
+        "height": 215
+    },
+    {
+        "id": "lilynette_gingerbuck",
+        "name": "Lilynette Gingerbuck",
+        "description": "Is an Arrancar and Coyote Starrk's sole Fracción, as well as a part of the same Hollow entity: when he uses his Resurrección, the two become one.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/9/9c/Ep161LilynetteProfile.png/revision/latest?cb=20220618140636&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Los Lobos"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 161
+        },
+        "division": 1,
+        "status": "Deceased",
+        "height": 142
+    },
+    {
+        "id": "szayelaporro_granz",
+        "name": "Szayelaporro Granz",
+        "description": "Was an Arrancar in Sōsuke Aizen's army and the Octava (8th) Espada. He is the younger brother of Yylfordt Granz. After being killed by Mayuri Kurotsuchi, he was dragged down to Hell where he became a Jailer of Hell.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/5/56/Ep159SzayelaporroProfile.png/revision/latest?cb=20231110190931&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Fornicarás"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 145
+        },
+        "division": 8,
+        "status": "Deceased",
+        "height": 185
+    },
+    {
+        "id": "yylfordt_granz",
+        "name": "Yylfordt Granz",
+        "description": "Is Arrancar Quince (15) in Sōsuke Aizen's army and one of Grimmjow Jaegerjaquez's five Fracción. He is the older brother of Szayelaporro Granz, the 8th Espada.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/a/a6/Ep120YylfordtProfile.png/revision/latest?cb=20231110191200&path-prefix=en",
+        "race": [
+            "Arrancar",
+            "Adjuchas"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Del Toro"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 116
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 185
+    },
+    {
+        "id": "nakeem_grindina",
+        "name": "Nakeem Grindina",
+        "description": "Is Arrancar Catorce (14) in Sōsuke Aizen's army and one of Grimmjow Jaegerjaquez's five Fracción. Is a large, fat Arrancar who always takes a hunched position with his hands crossed on his back.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/7/77/Ep120NakeemProfile.png/revision/latest?cb=20231110191816&path-prefix=en",
+        "race": [
+            "Arrancar",
+            "Gillian"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 116
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 180
+    },
+    {
+        "id": "pesche_guatiche",
+        "name": "Pesche Guatiche",
+        "description": "Is one of Nel Tu's brothers and protectors. Is a humanoid Arrancar whose head is almost completely covered by his mask, which resembles an insect-like head with large mandibles and horns.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/8/80/Ep156PescheProfile.png/revision/latest?cb=20231110191434&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "última"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 145
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 175
+    },
+    {
+        "id": "tier_harribel",
+        "name": "Tier Harribel",
+        "description": "Is an Arrancar and the former Tres (3rd) Espada in Sōsuke Aizen's army until the latter's defeat. Sometime after Aizen's defeat, she becomes the de facto ruler of Hueco Mundo.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/1/14/356Harribel_Resurreccion_profile.png/revision/latest?cb=20201010154748&path-prefix=en",
+        "race": [
+            "Arrancar",
+            "Vasto Lorde"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Tiburón"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 138
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 175
+    },
+    {
+        "id": "grimmjow_jaegerjaquez",
+        "name": "Grimmjow Jaegerjaquez",
+        "description": "Is an Arrancar and was the Sexta (6th) Espada in Sōsuke Aizen's affiliated army. Is a tall, muscular man with light blue spiky hair and light blue eyes, the latter including green lines below them, similar to the eye markings on the Panthera genus of cats.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/7/7a/Ep138GrimmjowProfile.png/revision/latest?cb=20231110192143&path-prefix=en",
+        "race": [
+            "Arrancar",
+            "Adjuchas"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Pantera"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 116
+        },
+        "division": 6,
+        "status": "Alive",
+        "height": 186
+    },
+    {
+        "id": "shawlong_koufang",
+        "name": "Shawlong Koufang",
+        "description": "Is the Undécimo (11th) Arrancar in Sōsuke Aizen's army. He was a member, and apparently the leader, of Grimmjow Jaegerjaquez's five Fracción.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/a/ab/Ep120ShawlongProfile.png/revision/latest?cb=20231110192443&path-prefix=en",
+        "race": [
+            "Arrancar",
+            "Adjuchas"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Tijereta"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 116
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 190
+    },
+    {
+        "id": "kukkapuro",
+        "name": "Kukkapūro",
+        "description": "Is a Números in Sōsuke Aizen's army, holding the number 35, and a former companion of Yammy Llargo. a puppy with a Hollow mask.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/d/d0/Ep310KukkapuroProfile.png/revision/latest?cb=20231110192617&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 267
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 34
+    },
+    {
+        "id": "tesra_lindocruz",
+        "name": "Tesra Lindocruz",
+        "description": "Is the 50th Arrancar in Sōsuke Aizen's army and Nnoitra Gilga's only Fracción. Is a slim, male Arrancar with dirty blonde hair.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/9/98/Ep159TesraLindocruz.png/revision/latest?cb=20231110192910&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Verruga"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 159
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 178
+    },
+    {
+        "id": "edrad_liones",
+        "name": "Edrad Liones",
+        "description": "Arrancar Trece (13) in Sōsuke Aizen's army and one of Grimmjow Jaegerjaquez's five Fracción. Is a very large muscular Arrancar, with brown eyes and long black hair, with the left side shaved and red.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/b/b0/202Edrad_profile_3.png/revision/latest?cb=20211117212719&path-prefix=en",
+        "race": [
+            "Arrancar",
+            "Adjuchas"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Volcánica"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 116
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 200
+    },
+    {
+        "id": "yammy_llargo",
+        "name": "Yammy Llargo",
+        "description": "Is an Arrancar in Sōsuke Aizen's army. He holds the rank of Arrancar Diez (10), but becomes the Cero (0) Espada after releasing his Zanpakutō.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/d/d2/Ep268YammyProfile.png/revision/latest?cb=20231110193115&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Ira"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 113
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 230
+    },
+    {
+        "id": "baraggan_louisenbairn",
+        "name": "Baraggan Louisenbairn",
+        "description": "Is an Arrancar in Sōsuke Aizen's army and the Segunda (2nd) Espada. Prior to this, he ruled Las Noches as the God-King of Hueco Mundo.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/5/58/Ep281_Barragan_Menos_Profile.png/revision/latest?cb=20220808161039&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Arrogante"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 145
+        },
+        "division": 2,
+        "status": "Deceased",
+        "height": 166
+    },
+    {
+        "id": "gantenbainne_mosqueda",
+        "name": "Gantenbainne Mosqueda",
+        "description": "Is the 107th Arrancar in Sōsuke Aizen's army. He has brown eyes and a big burnt orange afro-style haircut with thick sideburns and a goatee.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/9/90/Ep157GantenbainneProfile.png/revision/latest?cb=20231110200247&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Dragra"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 151
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 201
+    },
+    {
+        "id": "menoly_mallia",
+        "name": "Menoly Mallia",
+        "description": "Is the 34th Arrancar in Sōsuke Aizen's army. She and Loly Aivirrne served as Aizen's aides. She is a teenage-looking female Arrancar with tomboyish features.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/c/cd/Ep163MenolyProfile.png/revision/latest?cb=20231110200530&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 150
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 160
+    },
+    {
+        "id": "wonderweiss_margela",
+        "name": "Wonderweiss Margela",
+        "description": "Is the 77th Arrancar[1] in Sōsuke Aizen's army and the only modified Arrancar under Aizen's command. Though not an Espada, the Soul Society ranks his Spiritual Energy in the same class as theirs.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/2/27/Ep143WonderweissProfile.png/revision/latest?cb=20231110200738&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Extinguir"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 138
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 155
+    },
+    {
+        "id": "medazeppi",
+        "name": "Medazeppi",
+        "description": "Was one of Szayelaporro Granz's Fracción and an Arrancar in Sōsuke Aizen's army. He was much larger than any of Szayelaporro's other Fracción, with disproportionately long arms.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/4/47/Ep162MedazeppiProfile.png/revision/latest?cb=20230407225602&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 162
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": null
+    },
+    {
+        "id": "nelliel_tu_odelschwanck",
+        "name": "Nelliel Tu Odelschwanck",
+        "description": "Is an Arrancar and the former Tres (three) Espada. Good-natured, and childlike, lives in Hueco Mundo with her adoptive brothers and former Fracción, Dondochakka Birstanne and Pesche Guatiche, and their pet, Bawabawa.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/8/89/291Nelliel_profile.png/revision/latest?cb=20220820184415&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Gamuza"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 145
+        },
+        "division": 3,
+        "status": "Alive",
+        "height": 176
+    },
+    {
+        "id": "roka_paramia",
+        "name": "Roka Paramia",
+        "description": "Is an Arrancar and a nurse in Sōsuke Aizen's affiliated army. Is a rather slim individual with medium length black hair and grey eyes. Her mask fragments take the form of half a skull covering the right half of her face.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/4/4c/Ep127RokaProfile.png/revision/latest?cb=20230528045434&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Telaraña"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 127
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": null
+    },
+    {
+        "id": "choe_neng_poww",
+        "name": "Choe Neng Poww",
+        "description": "Is the 25th Arrancar in Sōsuke Aizen's army and one of Baraggan Louisenbairn's six Fracción. He is a very tall Arrancar with light green eyes and dark brown hair.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/4/43/Ep216_ChoeNengPoww.png/revision/latest?cb=20220524234037&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Calderón"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 203
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 391
+    },
+    {
+        "id": "nirgge_parduoc",
+        "name": "Nirgge Parduoc",
+        "description": "Is the 27th Arrancar in Sōsuke Aizen's army and one of Baraggan Louisenbairn's six Fracción. He is a very large Arrancar whose Hollow mask remnants consist of a thick helmet with short tusks protruding from the sides.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/f/fc/Ep221NirggeProfile.png/revision/latest?cb=20220513054347&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Mamut"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 203
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 212
+    },
+    {
+        "id": "abirama_redder",
+        "name": "Abirama Redder",
+        "description": "Is the 22nd Arrancar in Sōsuke Aizen's army and one of Baraggan Louisenbairn's six Fracción. Unlike other Arrancar, he does not wear a jacket, leaving the numerous red tattoos across his chest exposed.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/2/21/Ep216AbiramaProfile.png/revision/latest?cb=20231110201052&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Águila"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 203
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 183
+    },
+    {
+        "id": "di_roy_rinker",
+        "name": "Di Roy Rinker",
+        "description": "Is Arrancar Dieciséis (16) in Sōsuke Aizen's army and one of Grimmjow Jaegerjaquez's five Fracción. What remains of his Hollow mask is a bulky helmet similar in shape to a hammerhead shark.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/3/3d/Ep117DiRoyProfile.png/revision/latest?cb=20231110201334&path-prefix=en",
+        "race": [
+            "Arrancar",
+            "Adjuchas"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 113
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 168
+    },
+    {
+        "id": "franceska_mila_rose",
+        "name": "Franceska Mila Rose",
+        "description": "Is the 55th Arrancar in Sōsuke Aizen's army and one of Tier Harribel's three Fracción, collectively known as the Tres Bestias. She is a tall, dark-skinned, green-eyed Arrancar with long, thick, wavy brown hair and large breasts.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/3/3c/Ep221MilaRoseProfile.png/revision/latest?cb=20231110201553&path-prefix=en",
+        "race": [
+            "Arrancar",
+            "Adjuchas"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Leona"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 166
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 177
+    },
+    {
+        "id": "zommari_rureaux",
+        "name": "Zommari Rureaux",
+        "description": "Is an Arrancar in Sōsuke Aizen's army, and the Séptima (7th) Espada. He is a tall, muscular, dark-skinned Arrancar with noticeably large lips.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/9/97/Ep195ZommariProfile.png/revision/latest?cb=20231110201718&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Brujería"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 145
+        },
+        "division": 7,
+        "status": "Deceased",
+        "height": 196
+    },
+    {
+        "id": "cirucci_sanderwicci",
+        "name": "Cirucci Sanderwicci",
+        "description": "Was the 105th Arrancar in Sōsuke Aizen's army and a Privaron Espada prior to being executed by Rudbornn Chelute and later resurrected by Mayuri Kurotsuchi as a member of the Twelfth Division's Corpse Unit. Her appearance is similar to that of the Gothic lolita style of Japanese fashion.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/7/71/Ep388CirucciProfile.png/revision/latest?cb=20230921071818&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Golondrina"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 151
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 158
+    },
+    {
+        "id": "coyote_starrk",
+        "name": "Coyote Starrk",
+        "description": "Is an Arrancar and the Primera (1st) Espada in Sōsuke Aizen's army, along with his other half, Lilynette Gingerbuck. He has blue-gray eyes and wavy, dark brown hair, which ends at the base of his neck, is always unkempt, and is parted down the middle. He has a faded goatee.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/3/3b/Ep277StarrkProfile.png/revision/latest?cb=20230831173004&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Los Lobos"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 138
+        },
+        "division": 1,
+        "status": "Deceased",
+        "height": 187
+    },
+    {
+        "id": "cyan_sung-sun",
+        "name": "Cyan Sung-Sun",
+        "description": "Is the 56th Arrancar in Sōsuke Aizen's army and one of Tier Harribel's three Fracción, collectively known as the Tres Bestias. She is a slender female Arrancar with long, flowing, olive-green hair, long eyelashes, and lavender eyes, with three pink dots just below her right eye.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/a/a4/Ep166SungSunProfile.png/revision/latest?cb=20231110202602&path-prefix=en",
+        "race": [
+            "Arrancar",
+            "Adjuchas"
+        ],
+        "gender": "Female",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Anaconda"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 166
+        },
+        "division": null,
+        "status": "Alive",
+        "height": 154
+    },
+    {
+        "id": "ggio_vega",
+        "name": "Ggio Vega",
+        "description": "Is the 26th Arrancar in Sōsuke Aizen's army and one of Baraggan Louisenbairn's six Fracción. He is a slim, male Arrancar with scruffy black hair, a short braided ponytail, golden eyes, and a youthful, feminine face.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/2/21/Ep221GgioProfile.png/revision/latest?cb=20220513051147&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Tigre Estoque"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 203
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 163
+    },
+    {
+        "id": "aisslinger_wernarr",
+        "name": "Aisslinger Wernarr",
+        "description": "Is the 17th Arrancar in Sōsuke Aizen's army, and one of the gatekeepers of Las Noches. He is an Arrancar who abandoned his Human form for greater power.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/5/51/Ep144AisslingerProfile.png/revision/latest?cb=20230528204023&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Unknown"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 122
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": 173
+    },
+    {
+        "id": "aldegor",
+        "name": "Aldegor",
+        "description": "Is an Arrancar who sides with Patros in his plan to dethrone Sōsuke Aizen. He is a tall and bulky Arrancar. He has black spiked up hair, teal eyes, and his outfit consists of the standard Arrancar blouse and his Hollow mask remnant is a skull with a bull-like horn that covers the upper-left quarter of his face.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/b/be/Ep136AldegorProfile.png/revision/latest?cb=20231110202855&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Jabalí"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 136
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": null
+    },
+    {
+        "id": "menis",
+        "name": "Menis",
+        "description": "Is an Arrancar who sides with Patros in his plan to dethrone Sōsuke Aizen. He is a youthful, effeminate Arrancar. He has spiked red hair with the end in a braid and amber eyes, his outfit consists of a sleeveless blouse that exposes his mid-drift, and his sash hangs below his left hip.",
+        "avatar": "https://static.wikia.nocookie.net/bleach/images/a/af/Ep136MenisProfile.png/revision/latest?cb=20231110203052&path-prefix=en",
+        "race": [
+            "Arrancar"
+        ],
+        "gender": "Male",
+        "abilities": [
+            {
+                "type": "resurrección",
+                "name": "Erizo"
+            }
+        ],
+        "firstAppearance": {
+            "media": "anime",
+            "value": 136
+        },
+        "division": null,
+        "status": "Deceased",
+        "height": null
+    }
+]
